@@ -4,13 +4,11 @@
 <!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
 <!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
 	<head>
-	<meta charset="utf-8">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>Undangan Perpisahan Kelas VI</title>
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<meta name="description" content="Free HTML5 Template by FREEHTML5.CO" />
-	<meta name="keywords" content="free html5, free template, free bootstrap, html5, css3, mobile first, responsive" />
-	<meta name="author" content="FREEHTML5.CO" />
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<title>Undangan Akhirussanah SD Garut Islamic School Prima Insani Angkatan 4</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta name="description" content="Akhirussanah TK Islam Plus Prima Insani" />
 
   <!-- 
 	//////////////////////////////////////////////////////
@@ -118,10 +116,10 @@
 								<div class="event-wrap animate-box">
 									<h3>Lokasi Dan Tempat</h3>
 									<p>Dengan ini kami mengundang Bapak/Ibu/Saudara/i untuk dapat hadir dalam acara: <br>
-										<strong>"Akhirussanah Kelas VI Angkatan - 2 "</strong><br><br>
+										<strong>"Akhirussanah SD Garut Islamic School Prima Insani Angkatan 4"</strong><br><br>
 										Yang InsyaAllah akan kami laksanakan pada: <br>
-										Minggu, 19 Juni 2022 <br>
-										Pukul 07:30 WIB s.d. 12.00 WIB <br><br>
+										Minggu, 23 Juni 2024 <br>
+										Pukul 08:00 WIB s.d. Selesai <br><br>
 										<strong>Harmoni Hotel Garut</strong><br>Jln. Tegal Jambu Cipanas Baru - Garut
 									</p>
 								</div>
@@ -130,16 +128,32 @@
 								<div class="event-wrap animate-box">
 									<h3 class="text-center">Rundown Acara</h3>
 									<p>
-									&bull;07:00-08:00 : Check Peserta<br>
-									&bull;08:00-08:17 : Pembukaan<br>
-									&bull;08:17-08:47 : Sambutan-sambutan<br>
-									&bull;08:47-10:55 : Prosesi Wisuda<br>
-									&bull;10:55-11:10 : Do'a Penutupan Prosesi Wisuda<br>
-									&bull;11:10-11:13 : Pembukaan Acara Perayaan Kelulusan Siswa Kelas 6 Tahun Ajaran : 2021-2022<br>
-									&bull;11:13-11:43 : Penampilan dan Games<br>
-									&bull;11:45-12:00 : Penutupan Acara Perayaan Kelulusan Siswa Kelas 6 Tahun Ajaran : 2021-2022<br>
-									&bull;12:00-13:00 : Makan Siang dan Sholat<br>
-									&bull;13:00-14:00 : Sesi Foto Bersama<br>
+										1. Cek in siswa, orangtua, tamu undangan<br>
+										2. Ratoe Jaroe<br>
+										3. Sounding untuk MC<br>
+										4. Opening (MC Masuk)<br>
+										4. Pembacaan ayat suci Al-Quran<br>
+										5. Menyanyikan lagu Indonesia Raya<br>
+										6. Menyanyikan Mars Prima Insani<br>
+										7. Penampilan pasukan khusus Prima Insani<br>
+										8. Sambutan Ketua Pelaksana<br>
+										9. Sambutan Siswa kelas 6<br>
+										10. Foto Bersama Wisudawan<br>
+										11. Pembacaaan prestasi siswa kelas 6<br>
+										12. Prosesi penyerahan wisuda<br>
+										13. Sambutan orangtua siswa<br>
+										14. Sambutan Kepala sekolah<br>
+										15. Sambutan FPOM SD<br>
+										16. Sambutan ketua yayasan Prima Insani<br>
+										17. Sambutan PJ Bupati/Dinas/Pengawas Sekolah<br>
+										18. Foto bersama tamu undangan<br>
+										19. Pembacaan Do'a<br>
+										20. <em>Musical Show</em> "Gita Prima Nusantara" (Bersatu dalam keberagaman, wujudkan generasi cinta nusantara)<br>
+										21. <em>Closing</em> panitia<br>
+										22. Foto bersama seluruh panitia, keluarga Prima Insani, vendor, siswa <br>
+										23. <em>Closing</em> Acara<br>
+										24. Musafahah<br>
+										25. Sholat dan makan<br>
 									</p>
 								</div>
 							</div>
@@ -154,38 +168,33 @@
 			<div class="row">
 				<div class="col-md-8 col-md-offset-2 text-center fh5co-heading animate-box">
 					<h2>Save The Date</h2>
-					<h3>Garut, 19 Juni 2022</h3>
+					<h3>Garut, 23 Juni 2024</h3>
 					<div class="simply-countdown simply-countdown-one"></div>
 				</div>
 			</div>
 		</div>
 	</div>
-
 	<div id="fh5co-gallery" class="fh5co-section-gray">
 		<div class="container">
 			<div class="row">
 				<div class="col-md-8 col-md-offset-2 text-center fh5co-heading animate-box">
 					<h2>Tata Tertib Acara</h2>
 				</div>
-			</div>
-			<div class="row">
-				<div class="col-md-8 col-md-offset-2 fh5co-heading animate-box">
-					<p>&bull; Bebas as asasabsasa</p>
-					<p>&bull; Bebas as asasabsasa</p>
-					<p>&bull; Bebas as asasabsasa</p>
-					<p>&bull; Bebas as asasabsasa</p>
-					<p>&bull; Bebas as asasabsasa</p>
-					<p>&bull; Bebas as asasabsasa</p>
-					<p>&bull; Bebas as asasabsasa</p>
-					<p>&bull; Bebas as asasabsasa</p>
-					<p>&bull; Bebas as asasabsasa</p>
-					<p>&bull; Bebas as asasabsasa</p>
-					<p>&bull; Bebas as asasabsasa</p>
+              <div class="col-md-8 col-md-offset-2 fh5co-heading animate-box">
+					<p>
+						1. Check In siswa, orangtua, dan tamu undangan dilakukan di meja penerima tamu pada pukul 07.00 – 08.00 WIB.<br>
+						2.	Acara Akhirussanah dimulai pada pukul 08.00 WIB sampai selesai. <br>
+						3.	Orangtua, siswa dan tamu undangan tidak diperkenankan membawa makanan dan minuman dari luar.<br>
+						4.	Seluruh siswa, orangtua, dan tamu undangan memasuki ruang acara dan menempati tempat duduk yang sesuai.<br>
+						5.	Siswa dan orang tua wajib mengikuti rangkaian kegiatan sampai selesai.<br>
+						6.	Selama kegiatan Akhirussanah berlangsung, dokumentasi hanya dilakukan oleh panitia.<br>
+						7.	Apabila orangtua ingin mendokumentasikan penampilan (selain pada kegiatan Akhirussanah) harap dilakukan dengan tetap duduk pada tempatnya masing – masing.<br>
+						8.	Seluruh siswa, orangtua, dan tamu undangan mengikuti acara dengan tertib, tidak diperkenankan keluar masuk ruangan. <br>
+					</p>
 				</div>
 			</div>
 		</div>
 	</div>
-
 
 	<div id="fh5co-couple">
 		<div class="container">
@@ -231,6 +240,34 @@
 							<a href="javascript:void(0)" class="color-5">
 							</a>
 						</li>
+						<li class="one-third animate-box" data-animate-effect="fadeIn" style="background-image: url({{asset('logo/siswa/9.jpg')}}); "> 
+							<a href="javascript:void(0)" class="color-5">
+							</a>
+						</li>
+						<li class="one-third animate-box" data-animate-effect="fadeIn" style="background-image: url({{asset('logo/siswa/10.jpg')}}); "> 
+							<a href="javascript:void(0)" class="color-5">
+							</a>
+						</li>
+						<li class="one-third animate-box" data-animate-effect="fadeIn" style="background-image: url({{asset('logo/siswa/11.jpg')}}); "> 
+							<a href="javascript:void(0)" class="color-5">
+							</a>
+						</li>
+						<li class="one-third animate-box" data-animate-effect="fadeIn" style="background-image: url({{asset('logo/siswa/12.jpg')}}); "> 
+							<a href="javascript:void(0)" class="color-5">
+							</a>
+						</li>
+						<li class="one-third animate-box" data-animate-effect="fadeIn" style="background-image: url({{asset('logo/siswa/13.jpg')}}); "> 
+							<a href="javascript:void(0)" class="color-5">
+							</a>
+						</li>
+						<li class="one-third animate-box" data-animate-effect="fadeIn" style="background-image: url({{asset('logo/siswa/14.jpg')}}); "> 
+							<a href="javascript:void(0)" class="color-5">
+							</a>
+						</li>
+						<li class="one-third animate-box" data-animate-effect="fadeIn" style="background-image: url({{asset('logo/siswa/15.jpg')}}); "> 
+							<a href="javascript:void(0)" class="color-5">
+							</a>
+						</li>
 					</ul>		
 				</div>
 			</div>
@@ -254,6 +291,7 @@
 		</div>
 	</div>
 
+
 	<div id="fh5co-services">
 		<div class="overlay"></div>
 		<div class="container">
@@ -261,6 +299,7 @@
 				<div class="col-md-8 col-md-offset-2 text-center fh5co-heading">
 					<h2>Ucapan Anda</h2>
 					<p>Tolong Berikan Pesan Anda Terkait Acara Akhirussanah Ini, Terima Kasih.</p>
+					
 				</div>
 			</div>
 			<div class="row animate-box">
@@ -297,13 +336,39 @@
 			</div>
 		</div>
 	</div>
-	<div id="fh5co-testimonial" class="fh5co-section-gray">
+
+	<div id="fh5co-services"  class="fh5co-section-gray" >
+		<div class="overlay"></div>
+		<div class="container">
+			<div class="row animate-box">
+				<div class="col-md-8 col-md-offset-2 text-center fh5co-heading">
+					<h2>Barcode Presensi</h2>
+					<p>Tolong scan barcode ke panitia untuk daftar hadir.</p>
+				</div>
+			</div>
+			<div class="row animate-box">
+				<div class="col-md-10 col-md-offset-1" style="display: flex;
+        justify-content: center;
+        align-items: center;">
+					{!! $tamu->barcode !!} 
+				</div>
+				<div class="col-md-10 col-md-offset-1" style="display: flex;
+        justify-content: center;
+        align-items: center; margin-top: 30px">
+		<p>*untuk mempermudah boleh di screenshot<p>
+		</div>
+					
+			</div>
+		</div>
+	</div>
+
+	<div id="fh5co-testimonial">
 		<div class="container">
 			<div class="row">
 				<div class="row animate-box">
 					<div class="col-md-8 col-md-offset-2 text-center fh5co-heading">
-						<h2>Buku Tamu</h2>
-						<p>Akhirussanah Kelas VI Angkatan ke-II</p>
+						<h2>Ucapan Dari Tamu Undangan</h2>
+						<p>Akhirussanah SD Garut Islamic School Prima Insani Angkatan 4</p>
 					</div>
 				</div>
 				<div class="row">
@@ -382,9 +447,9 @@
 
     // default example
     simplyCountdown('.simply-countdown-one', {
-        year: 2022,
+        year: 2024,
     	month: 06,
-    	day: 19,
+    	day: 23,
 	hours: 8,
 	minutes: 0,
 	seconds: 0,

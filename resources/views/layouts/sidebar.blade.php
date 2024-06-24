@@ -46,6 +46,12 @@
                     </a>
                 </li>
                 <li>
+                    <a href="{{route('absen.index')}}" target="_BLANK" class="{{(request()->is('absen*')) ? 'mm-active' : ''}}">
+                        <i class="metismenu-icon pe-7s-album"></i>
+                            Scan Presensi
+                    </a>
+                </li>
+                <li>
                     <a href="{{ route('logout') }}" class="dropdown-item" onclick="event.preventDefault();
                         document.getElementById('logout-form').submit();"><i class="metismenu-icon pe-7s-power"></i>Keluar</a>
                         <form id="logout-form" action="{{ route('logout') }}" method="POST" style="display: none;">

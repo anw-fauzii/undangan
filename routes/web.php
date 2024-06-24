@@ -1,5 +1,6 @@
 <?php
 
+use App\Http\Controllers\AbsenController;
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\TamuController;
 use App\Http\Controllers\HomeController;
@@ -24,9 +25,9 @@ Route::get('/', [WelcomeController::class, 'index'])->name('welcome.index');
 Route::get('/u/{id}', [WelcomeController::class, 'kode'])->name('kode.tamu');
 Route::post('/update/komentar/{id}', [WelcomeController::class, 'update'])->name('welcome.update');
 Route::resource('/daftar-tamu', TamuController::class);
-Route::get('/hapus-tamu/{id}',[TamuController::class,'hapus'])->name('hapus.tamu');
-//Optimize
-Route::get('/optimize', function() {
+Route::get('/hapus-tamu/{id}', [TamuController::class, 'hapus'])->name('hapus.tamu');
+Route::resource('/absen', AbsenController::class);
+Route::get('/optimize', function () {
     $exitCode = Artisan::call('optimize');
     return '<h1>Clear Config cleared</h1>';
 });

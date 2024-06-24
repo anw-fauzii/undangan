@@ -5,6 +5,7 @@ namespace App\Http\Controllers;
 use App\Models\Tamu;
 use Illuminate\Http\Request;
 use DataTables;
+use Milon\Barcode\DNS2D;
 use Validator;
 
 class TamuController extends Controller
@@ -16,9 +17,9 @@ class TamuController extends Controller
      */
     public function __construct()
     {
-        $this->middleware(['auth','revalidate']);
+        $this->middleware(['auth', 'revalidate']);
     }
-    
+
     /**
      * Display a listing of the resource.
      *
@@ -30,14 +31,14 @@ class TamuController extends Controller
             $data = Tamu::all();
             return DataTables::of($data)
                 ->addIndexColumn()
-                ->addColumn('action', function($row){
-                    $btn = '<a href="javascript:void(0)" data-toggle="tooltip" title="Edit" data-id="'.$row->id.'" data-original-title="Edit" class="edit btn btn-warning btn-sm edit"><i class="metismenu-icon pe-7s-pen"></i></a>';
-                    $btn = $btn.' <a href="javascript:void(0)" data-toggle="tooltip" title="Hapus" data-id="'.$row->id.'" data-original-title="Delete" class="btn btn-danger btn-sm delete"><i class="metismenu-icon pe-7s-trash"></i></a>';
+                ->addColumn('action', function ($row) {
+                    $btn = '<a href="javascript:void(0)" data-toggle="tooltip" title="Edit" data-id="' . $row->id . '" data-original-title="Edit" class="edit btn btn-warning btn-sm edit"><i class="metismenu-icon pe-7s-pen"></i></a>';
+                    $btn = $btn . ' <a href="javascript:void(0)" data-toggle="tooltip" title="Hapus" data-id="' . $row->id . '" data-original-title="Delete" class="btn btn-danger btn-sm delete"><i class="metismenu-icon pe-7s-trash"></i></a>';
                     return $btn;
                 })
                 ->rawColumns(['action'])
                 ->make(true);
-            }
+        }
         return view('daftar-tamu.index');
     }
 
@@ -64,18 +65,20 @@ class TamuController extends Controller
         ], $messages = [
             'nama.required' => 'Kolom nama Pelatihan Wajib Diisi',
         ]);
-        if($validator->passes()) {
+        if ($validator->passes()) {
             $permitted_chars = '0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ';
+            $kode = substr(str_shuffle($permitted_chars), 0, 8);
             $nama = Tamu::updateOrCreate(
                 ['id' => $request->id],
                 [
-                    'kode' => substr(str_shuffle($permitted_chars), 0, 8),
+                    'barcode' => (new DNS2D)->getBarcodeHTML($kode, 'QRCODE'),
+                    'kode' => $kode,
                     'nama' => $request->nama,
                 ]
             );
             return response()->json($nama);
         }
-        return response()->json(['error'=>$validator->errors()]);
+        return response()->json(['error' => $validator->errors()]);
     }
 
     /**

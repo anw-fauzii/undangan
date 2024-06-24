@@ -14,8 +14,9 @@ class CreateTamuTable extends Migration
     public function up()
     {
         Schema::create('tamu', function (Blueprint $table) {
-            $table->increments('id');
+            $table->bigIncrements('id');
             $table->string('kode')->unique();
+            $table->longText('barcode');
             $table->string('nama')->nullable();
             $table->integer('keterangan')->nullable();
             $table->text('komentar')->nullable();

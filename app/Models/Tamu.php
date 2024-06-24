@@ -10,6 +10,6 @@ class Tamu extends Model
     use HasFactory;
     protected $table = "tamu";
     protected $fillable = [
-        'kode','nama','keterangan','komentar'
+        'kode', 'nama', 'keterangan', 'komentar', 'barcode'
     ];
 }
